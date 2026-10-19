@@ -14,21 +14,21 @@ Times University, Multan, Pakistan
 
 ### Smart Crop Doctor *(Proposed Final Year Project)*
 
-A mobile application concept that helps users identify crop and leaf diseases from images.
+A mobile application concept that helps user identify crop and leaf diseases from images.
 
 **Planned features**
-- Disease identification from leaf images
-- Estimated disease severity
-- Treatment guidance and precautions in **Urdu and English**
+- Disease identification from leaf images.
+- Estimated disease severity.
+- Treatment guidance and precautions in **Urdu and English**.
 
 **Status:** Proposal and planning stage. Implementation has not started yet.
 
 ## Currently Working On
 
-- Building a stronger foundation in Python and programming
-- Learning core AI and Machine Learning concepts
-- Planning small projects to put new skills into practice
-- Exploring how AI can solve practical challenges in agriculture
+- Building a stronger foundation in Python and programming.
+- Learning core AI and Machine Learning concepts.
+- Planning small projects to put new skills into practice.
+- Exploring how AI can solve practical challenges in agriculture.
 
 ## Skills
 
