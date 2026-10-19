@@ -23,7 +23,7 @@ A mobile application concept that helps user identify crop and leaf diseases fro
 
 **Status:** Proposal and planning stage. Implementation has not started yet.
 
-## Currently Working On
+## Currently Working on
 
 - Building a stronger foundation in Python and programming.
 - Learning core AI and Machine Learning concepts.
