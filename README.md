@@ -74,6 +74,12 @@ A mobile application concept that helps farmers and users identify crop and leaf
 
 Artificial Intelligence, Machine Learning, Python, Practical AI Applications, Agriculture Technology, Problem-Solving
 
+## Open To
+
+- Scholarship opportunities for a Master's degree in Europe and abroad
+- Connecting with students and developers interested in AI and Python
+- Learning from mentors and from others working on practical AI projects
+
 ## Let's Connect
 
 I'm eager to connect with students and developers who share an interest in AI, Python, and building practical technology solutions.
