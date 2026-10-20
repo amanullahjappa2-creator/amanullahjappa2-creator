@@ -4,7 +4,7 @@
 
 I'm an Information Technology student at Times University, Multan, Pakistan, with a strong interest in Artificial Intelligence and its practical applications. My goal is to build AI solutions for real-world problems, especially in agriculture.
 
-## Education
+## Education 
 
 **BS in Information Technology**  
 Times University, Multan, Pakistan  
