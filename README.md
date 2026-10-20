@@ -6,9 +6,8 @@ I'm an Information Technology student at Times University, Multan, Pakistan, wit
 
 ---
 
-## About Me
+## About Me 
 
-- Studying BS Information Technology, with five semesters completed
 - Learning Python fundamentals and core Machine Learning concepts
 - Interested in using AI to solve practical problems in agriculture
 - Student leader who enjoys organizing teams, events, and campus activities
