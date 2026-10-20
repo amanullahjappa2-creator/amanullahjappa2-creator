@@ -32,10 +32,10 @@ A mobile application concept that helps user identify crop and leaf diseases fro
 
 ## Skills
 
-- **Programming:** Python (fundamentals)
-- **Focus areas:** Artificial Intelligence, Machine Learning
-- **Digital Marketing:** Practical experience, supported by DigiSkills training
-- **Soft skills:** Leadership, teamwork, communication, event coordination
+- **Programming:** Python (Fundamentals)
+- **AI & Technology:** Artificial Intelligence, Machine Learning
+- **Digital Marketing:** Inbound Marketing, Content Marketing, Digital Marketing Fundamentals
+- **Soft Skills:** Leadership, Teamwork, Communication, Event Coordination
 
 ## Leadership
 
