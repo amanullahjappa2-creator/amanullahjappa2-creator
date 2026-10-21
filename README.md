@@ -84,3 +84,5 @@ Artificial Intelligence, Machine Learning, Python, Practical AI Applications, Ag
 I'm eager to connect with students and developers who share an interest in AI, Python, and building practical technology solutions.
 
 - Email: [amanullahjappa2@gmail.com](mailto:amanullahjappa2@gmail.com)
+
+I am also trying to make some new projects. So that i learn faster by practical work. It will help me improve myself.
